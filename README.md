@@ -1,5 +1,5 @@
 # Bienvenido!!:
-Soy estudiante de 6to semestre de Ingeniería de Software. Con ganas de aprender cosas nuevas día a día. Comprometido y constante con lo que hago. 🧑‍💻 💻 
+Soy estudiante de 8vo semestre de Ingeniería de Software. Con ganas de aprender cosas nuevas día a día. Comprometido y constante con lo que hago. 🧑‍💻 💻 
 
 
 ## 🌐 Social:
