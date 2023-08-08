@@ -25,7 +25,7 @@ Otros - XML, JWT, Ofimática Avanzada, Firebase
 
 Conocimientos en Consumo de APIs
 
-Idiomas - Español (Nativo), Inglés Técnico.
+Idiomas - Español (Nativo), Inglés intermedio.
 
 Competente en análisis de requisitos, diseño de software, modelado UML, patrones de diseño y técnicas arquitectónicas para crear soluciones de software eficientes y escalables.
 
