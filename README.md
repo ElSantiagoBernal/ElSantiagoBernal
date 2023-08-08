@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 # Bienvenido a mi github!!:
 👋 Hola, Soy Santiago Bernal, Estudiante de 8vo semestre de Ingeniería de software (Ciclos Propedéuticos).
 
