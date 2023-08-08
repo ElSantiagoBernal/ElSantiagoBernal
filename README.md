@@ -1,4 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bienvenid%40+a+mi+github!!+)](https://git.io/typing-svg)
+
 # Bienvenido a mi github!!:
+
 👋 Hola, Soy Santiago Bernal, Estudiante de 8vo semestre de Ingeniería de software (Ciclos Propedéuticos).
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hi%2C+I'm+Andr%C3%A9s!+💣💥;a+Software+Developer+<+/+>+💻📱🎮;I+like+learning+new+things🧠🎓;and+to+perfect+them+to+the+max!!🎯🎯🎯;)](https://git.io/typing-svg)
