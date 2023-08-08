@@ -8,14 +8,23 @@ Me gusta lograr lo que me propongo, soy una persona competitiva en el ámbito pe
 📚Conocimientos:
 
 Lenguajes - Java (POO), Python, PHP, CSS, Javascript, HTML5, Kotlin, C#
+
 Móvil - Android Studio
+
 BD - MySQL, SQL Developer oracle
+
 Marcos y Metodologías ágiles de trabajo - SCRUM
+
 Frameworks - Flask, Django, Springboot, Bootstrap
+
 Librerías - JQuery, Thymeleaf, React
+
 Herramientas de Adobe - XD, Illustrator
+
 Otros - XML, JWT, Ofimática Avanzada, Firebase
+
 Conocimientos en Consumo de APIs
+
 Idiomas - Español (Nativo), Inglés Técnico.
 
 Competente en análisis de requisitos, diseño de software, modelado UML, patrones de diseño y técnicas arquitectónicas para crear soluciones de software eficientes y escalables.
