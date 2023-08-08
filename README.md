@@ -4,8 +4,6 @@
 
 👋 Hola, Soy Santiago Bernal, Estudiante de 8vo semestre de Ingeniería de software (Ciclos Propedéuticos).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hi%2C+I'm+Andr%C3%A9s!+💣💥;a+Software+Developer+<+/+>+💻📱🎮;I+like+learning+new+things🧠🎓;and+to+perfect+them+to+the+max!!🎯🎯🎯;)](https://git.io/typing-svg)
-
 🎯Buen trabajo en equipo, conocimiento en diferentes entornos de programación y frameworks. Con muchas ganas de aprender cosas nuevas día a día, comprometido y constante con lo que hago, apasionado por la tecnología. Cuento con nivel avanzado de inglés.
 
 Me gusta lograr lo que me propongo, soy una persona competitiva en el ámbito personal, tratando de mejorar para superarme a mi mismo.
